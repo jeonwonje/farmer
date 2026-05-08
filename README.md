@@ -2,9 +2,9 @@
 
 A WiFi-connected plant-watering rig built on an Arduino MKR1000: it reads soil moisture, waters the plant when the soil dries out, logs readings to ThingSpeak, and exposes a web UI plus IFTTT hooks for remote and voice control.
 
-![Build, front view](plant1.jpeg)
-![Soil sensor and pump](plant2.jpeg)
-![Enclosure detail](plant3.jpeg)
+![Build, front view](farmer1.jpeg)
+![Soil sensor and pump](farmer2.jpeg)
+![Enclosure detail](farmer3.jpeg)
 
 ## Features
 
